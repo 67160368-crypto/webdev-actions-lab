@@ -24,3 +24,22 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+
+
+section {
+  margin-top: 24px;
+  padding-top: 12px;
+  border-top: 1px solid #e5e7eb;
+}
+
+section h2 {
+  color: #7c3aed;
+}
+
+section p {
+  line-height: 1.7;
+}
+
+a {
+  color: #7c3aed;
+}
